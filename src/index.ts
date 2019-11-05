@@ -725,7 +725,10 @@ export async function isEmulator() {
 
 export function isEmulatorSync() {
   if (!emulator) {
-    if (OS === 'android' || OS === 'ios' || OS === 'windows') {
+    if (OS === 'ios') {
+      const deviceId = getDeviceId();
+      emulator = deviceId === 'i386' || deviceId === 'x86_64';
+    } else if (OS === 'android' || OS === 'windows') {
       emulator = RNDeviceInfo.isEmulatorSync();
     } else {
       emulator = false;
