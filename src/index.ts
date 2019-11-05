@@ -711,7 +711,10 @@ export function getIncrementalSync() {
 let emulator: boolean;
 export async function isEmulator() {
   if (!emulator) {
-    if (OS === 'android' || OS === 'ios' || OS === 'windows') {
+    if (OS === 'ios') {
+      const deviceId = getDeviceId();
+      emulator = deviceId === 'i386' || deviceId === 'x86_64';
+    } else if (OS === 'android' || OS === 'windows') {
       emulator = await RNDeviceInfo.isEmulator();
     } else {
       emulator = false;
