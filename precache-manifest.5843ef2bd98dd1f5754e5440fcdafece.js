@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "3095613e969aec6f8867",
-    "url": "/react-native-device-info/static/js/app.9167873c.chunk.js"
+    "revision": "d8e8f076052d423c6711",
+    "url": "/react-native-device-info/static/js/app.2f39914e.chunk.js"
   },
   {
-    "revision": "5b7da254edcb12ad0b2a",
-    "url": "/react-native-device-info/static/js/runtime~app.2a544480.js"
+    "revision": "a45b045719fbbb919720",
+    "url": "/react-native-device-info/static/js/runtime~app.c0a45cbe.js"
   },
   {
-    "revision": "f7e0d54012472e0b554f",
-    "url": "/react-native-device-info/static/js/2.9222b941.chunk.js"
+    "revision": "41157470aad9e059d445",
+    "url": "/react-native-device-info/static/js/2.e6a8cb4d.chunk.js"
   },
   {
     "revision": "5a293a273bee8d740a045d9922b9a9ae",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/serve.json"
   },
   {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/react-native-device-info/favicon.ico"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/react-native-device-info/expo-service-worker.js"
+  },
+  {
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/react-native-device-info/favicon.ico"
   },
   {
     "revision": "ca0c034a4972a00ad65bff069ddcdc74",
@@ -92,23 +92,23 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "cd18f7cd248947c238900a049faf8935",
+    "revision": "142b8a3e8a8c64d74c3acddbc149594b",
     "url": "/react-native-device-info/index.html"
   },
   {
-    "revision": "4ab13e294eb271f113d273e47e0bc5de",
-    "url": "/react-native-device-info/static/js/app.9167873c.chunk.js.gz"
+    "revision": "cc49d5f49dd151e8d3a0bc708b82aade",
+    "url": "/react-native-device-info/static/js/app.2f39914e.chunk.js.gz"
   },
   {
-    "revision": "abfe3cfb074c04f6ba1de18f35179b65",
-    "url": "/react-native-device-info/static/js/runtime~app.2a544480.js.gz"
+    "revision": "1c88d2b538526966644cf60d75c3a7a0",
+    "url": "/react-native-device-info/static/js/runtime~app.c0a45cbe.js.gz"
   },
   {
     "revision": "16709f23227d220b53e235a942bf292c",
     "url": "/react-native-device-info/expo-service-worker.js.gz"
   },
   {
-    "revision": "c7a14ed1e0c572e7d5b9e74602c3cfa0",
-    "url": "/react-native-device-info/static/js/2.9222b941.chunk.js.gz"
+    "revision": "5d46d19a4e372e0a1e1aaf2ab422f77a",
+    "url": "/react-native-device-info/static/js/2.e6a8cb4d.chunk.js.gz"
   }
 ];
