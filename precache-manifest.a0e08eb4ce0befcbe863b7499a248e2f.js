@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/static/js/runtime~app.2a544480.js"
   },
   {
-    "revision": "bd99657e2357d8a15e87",
-    "url": "/react-native-device-info/static/js/2.59dae689.chunk.js"
+    "revision": "541c750c0f8515f0598f",
+    "url": "/react-native-device-info/static/js/2.4d925276.chunk.js"
   },
   {
     "revision": "5a293a273bee8d740a045d9922b9a9ae",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "8913e10ec4657d4655a85e14cd2e05f4",
+    "revision": "ab40087f9c7631944cfd5dbcccbcd964",
     "url": "/react-native-device-info/index.html"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/expo-service-worker.js.gz"
   },
   {
-    "revision": "94915a4dc0c2471ab48afb9b6282719d",
-    "url": "/react-native-device-info/static/js/2.59dae689.chunk.js.gz"
+    "revision": "92b9e965c6ae288be1c1a8abf5867acb",
+    "url": "/react-native-device-info/static/js/2.4d925276.chunk.js.gz"
   }
 ];
