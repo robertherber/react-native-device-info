@@ -1,10 +1,10 @@
 {
-  "app.js": "/react-native-device-info/static/js/app.1b1c77e1.chunk.js",
-  "app.2762c546379f1fd8221b.map": "/react-native-device-info/2762c546379f1fd8221b.map",
+  "app.js": "/react-native-device-info/static/js/app.9167873c.chunk.js",
+  "app.3095613e969aec6f8867.map": "/react-native-device-info/3095613e969aec6f8867.map",
   "runtime~app.js": "/react-native-device-info/static/js/runtime~app.2a544480.js",
   "runtime~app.5b7da254edcb12ad0b2a.map": "/react-native-device-info/5b7da254edcb12ad0b2a.map",
-  "static/js/2.4d925276.chunk.js": "/react-native-device-info/static/js/2.4d925276.chunk.js",
-  "541c750c0f8515f0598f.map": "/react-native-device-info/541c750c0f8515f0598f.map",
+  "static/js/2.9222b941.chunk.js": "/react-native-device-info/static/js/2.9222b941.chunk.js",
+  "f7e0d54012472e0b554f.map": "/react-native-device-info/f7e0d54012472e0b554f.map",
   "fonts/MaterialCommunityIcons.ttf": "/react-native-device-info/./fonts/MaterialCommunityIcons.ttf",
   "apple/icons/icon_180x180.png": "/react-native-device-info/apple/icons/icon_180x180.png",
   "apple/icons/icon_192x192.png": "/react-native-device-info/apple/icons/icon_192x192.png",
@@ -26,10 +26,10 @@
   "favicon.ico": "/react-native-device-info/favicon.ico",
   "index.html": "/react-native-device-info/index.html",
   "manifest.json": "/react-native-device-info/manifest.json",
-  "precache-manifest.a0e08eb4ce0befcbe863b7499a248e2f.js": "/react-native-device-info/precache-manifest.a0e08eb4ce0befcbe863b7499a248e2f.js",
+  "precache-manifest.21a4ce6053a50ec8096e8fb4aa57b561.js": "/react-native-device-info/precache-manifest.21a4ce6053a50ec8096e8fb4aa57b561.js",
   "serve.json": "/react-native-device-info/serve.json",
   "service-worker.js": "/react-native-device-info/service-worker.js",
-  "static/js/2.4d925276.chunk.js.gz": "/react-native-device-info/static/js/2.4d925276.chunk.js.gz",
-  "static/js/app.1b1c77e1.chunk.js.gz": "/react-native-device-info/static/js/app.1b1c77e1.chunk.js.gz",
+  "static/js/2.9222b941.chunk.js.gz": "/react-native-device-info/static/js/2.9222b941.chunk.js.gz",
+  "static/js/app.9167873c.chunk.js.gz": "/react-native-device-info/static/js/app.9167873c.chunk.js.gz",
   "static/js/runtime~app.2a544480.js.gz": "/react-native-device-info/static/js/runtime~app.2a544480.js.gz"
 }
