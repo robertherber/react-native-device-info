@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "d8e8f076052d423c6711",
-    "url": "/react-native-device-info/static/js/app.2f39914e.chunk.js"
+    "revision": "6602ebebbc42a8c252fd",
+    "url": "/react-native-device-info/static/js/app.ebba116b.chunk.js"
   },
   {
     "revision": "a45b045719fbbb919720",
     "url": "/react-native-device-info/static/js/runtime~app.c0a45cbe.js"
   },
   {
-    "revision": "41157470aad9e059d445",
-    "url": "/react-native-device-info/static/js/2.e6a8cb4d.chunk.js"
+    "revision": "9933cb02fc167abdf14e",
+    "url": "/react-native-device-info/static/js/2.42b6b203.chunk.js"
   },
   {
     "revision": "5a293a273bee8d740a045d9922b9a9ae",
     "url": "/react-native-device-info/./fonts/MaterialCommunityIcons.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/react-native-device-info/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/react-native-device-info/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/react-native-device-info/serve.json"
   },
   {
     "revision": "7a7bc7ead25db795e58b336f04d2624c",
@@ -92,12 +92,8 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "142b8a3e8a8c64d74c3acddbc149594b",
+    "revision": "0d951e1a8c80a002e697665652a0fce5",
     "url": "/react-native-device-info/index.html"
-  },
-  {
-    "revision": "cc49d5f49dd151e8d3a0bc708b82aade",
-    "url": "/react-native-device-info/static/js/app.2f39914e.chunk.js.gz"
   },
   {
     "revision": "1c88d2b538526966644cf60d75c3a7a0",
@@ -108,7 +104,11 @@ self.__precacheManifest = [
     "url": "/react-native-device-info/expo-service-worker.js.gz"
   },
   {
-    "revision": "5d46d19a4e372e0a1e1aaf2ab422f77a",
-    "url": "/react-native-device-info/static/js/2.e6a8cb4d.chunk.js.gz"
+    "revision": "6611e80be612db04ded2fa615da48505",
+    "url": "/react-native-device-info/static/js/app.ebba116b.chunk.js.gz"
+  },
+  {
+    "revision": "c864eec3e6f43da6c885d7339bc6b12e",
+    "url": "/react-native-device-info/static/js/2.42b6b203.chunk.js.gz"
   }
 ];
